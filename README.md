@@ -1,6 +1,5 @@
 # Diabetes-Model-ML
 I have tried to train Machine Learning model using diabetes dataset available on kaggle to predict whether the person is diabetic or not.
-# Diabetes Classification Project
 
 This project demonstrates a machine learning model to predict diabetes based on patient data.
 
