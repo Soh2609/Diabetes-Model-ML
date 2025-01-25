@@ -1,7 +1,5 @@
 # Diabetes-Model-ML
-I have tried to train Machine Learning model using diabetes dataset available on kaggle to predict whether the person is diabetic or not.
-
-This project demonstrates a machine learning model to predict diabetes based on patient data.
+A user-friendly web application for predicting the likelihood of diabetes based on medical input parameters. This project utilizes a trained machine learning model for efficient and accurate predictions.
 
 ## Features
 - Data preprocessing
